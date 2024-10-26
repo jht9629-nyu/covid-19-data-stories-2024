@@ -56,38 +56,38 @@ Students can choose to participate as creatives, artists, javascript coders, p5j
 
 Students will participate in lectures, research, discussion groups, hands on design and build activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1 (2024-10-29)](Week/01.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice.
+**[Week 1 (2024-10-29)](week/01.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice.
 
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
-**[Week 2 (2024-11-05)](Week/02.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
+**[Week 2 (2024-11-05)](week/02.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3 (2024-11-12)](Week/03.md)** Lecture and Guest Speaker:
+**[Week 3 (2024-11-12)](week/03.md)** Lecture and Guest Speaker:
 Our guest lecturer will be Tim Williams from [Tickr, Inc.](ttps://www.tickr.com/) Tickr is a data analytics and data visualization firm that uses technologies including machine learning and AI to deploy anayltics for businesses.
 
 Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
 
 <!-- Early Pioneers of Data Visualization. -->
 
-**[Week 4 (2024-11-19)](Week/04.md)** Lecture: Vizualization considerations when working with big data, small personal data, data art. Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
+**[Week 4 (2024-11-19)](week/04.md)** Lecture: Vizualization considerations when working with big data, small personal data, data art. Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
-**[Week 5 (2024-11-26)](Week/05.md)** Lecture: The value of stories. Data Visualization: Paragraph or Picture? Researching, documenting and citing data sources.
+**[Week 5 (2024-11-26)](week/05.md)** Lecture: The value of stories. Data Visualization: Paragraph or Picture? Researching, documenting and citing data sources.
 
 **Final Project:** Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo.
 
-**[Week 6 (2024-12-03)](Week/06.md)** Lecture: Small Data, Personal Data: Examining the work of Giorgia Lupi. More on documentation and citation.
+**[Week 6 (2024-12-03)](week/06.md)** Lecture: Small Data, Personal Data: Examining the work of Giorgia Lupi. More on documentation and citation.
 
 **Final Projects:** Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo.
 
 **Visitor and Guest Speaker:** Tyler Peppel Founder and CEO of Tickr.com
 
-**[Week 7 (2024-12-10)](Week/07.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo.
+**[Week 7 (2024-12-10)](week/07.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo.
 
-**[Data Viz Student Curated](Week/Data_Vizzies.md)**
+**[Data Viz Student Curated](week/Data_Vizzies.md)**
 
 ## Grading
 
