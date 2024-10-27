@@ -116,7 +116,9 @@ Students will be graded on
 
 ### Coding Resources
 
-[p5js](https://p5js.org/); [d3js](https://d3js.org/);
+[p5js](https://p5js.org/)
+
+[d3js](https://d3js.org/)
 
 [observablehq.com d3 Gallery](https://observablehq.com/@d3/gallery)
 
