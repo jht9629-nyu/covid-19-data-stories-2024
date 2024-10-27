@@ -127,7 +127,7 @@ The Coding Lab https://codinglab.itp.io/ and The Design Lab https://designlab.it
 
 These are peer-to-peer tutoring/mentoring/consulting groups that you can go for project help! Each mentor has different skills and strengths listed on their websites. Click the links above to find appointment links and contact information.
 
-If you are in need of project documentation (photos, film, interviews, etc.), you can get in touch with the Documentation Lab: https://forms.gle/V2x4mecHPzUkEeaU7
+If you are in need of project documentation (photos, film, interviews, etc.), you can get in touch with the Documentation Lab: https://itp.nyu.edu/help/doc-lab/
 
 ## Academic Statements
 
