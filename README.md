@@ -16,15 +16,19 @@ This course will use the open source [The COVID-19 Impact Project](https://itp.n
 
 In this course we will:
 
-● _Explore_ ideas of memory making for social justice and social resilience
+● _Improve_ data literacy in a data rich world
 
-● _Discuss_ pioneers and contemporary developers of data visualization for social justice
+● _Explore_ pioneers and contemporary developers of data visualizations for social justice
+
+● _Develop_ ideas for data informed memory making for social justice and social resilience
 
 ● _Explore_ different modes of data storytelling
 
 ● _Develop_ new data stories according to student interest
 
 ● _Clarify_ pandemic stories through data disaggregation
+
+
 
 <!-- ● Explore and invent creative uses of data for advocacy and change.
 
@@ -50,13 +54,13 @@ Students can choose to participate as creatives, artists, javascript coders, p5j
 
 \*\* _Students wishing to pursue their final projects beyond the class will be provided with information about resources at NYU for supporting student projects that amplify underrepresented narratives._
 
-\*\* _Students wishing to continue their participation in The COVID-19 Impact Project after the course ends should notify us as we are seeking grant funding to implement viable concepts._
+\*\* _Students wishing to continue their participation in The COVID-19 Impact Project after the course ends should notify us as we are pursuing grant funding to implement viable concepts._
 
 ## Course Structure
 
 Students will participate in lectures, research, discussion groups, hands on design and build activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1 (2024-10-29)](Week/01.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice.
+**[Week 1 (2024-10-29)](Week/01.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for inspiration and for social justice.
 
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
@@ -65,7 +69,9 @@ Students will participate in lectures, research, discussion groups, hands on des
 <!-- Other Open Source Data Projects. -->
 
 **[Week 3 (2024-11-12)](Week/03.md)** Lecture and Guest Speaker:
-Our guest lecturer will be Tim Williams from [Tickr, Inc.](ttps://www.tickr.com/) Tickr is a data analytics and data visualization firm that uses technologies including machine learning and AI to deploy anayltics for businesses.
+Our visiting artist is Ekene Ijeoma [Studio Ijeoma](https://studioijeoma.com/) Ekene Ijeoma is an artist, Assistant Professor of Media Arts and Sciences at MIT, and Director of Poetic Justice Group
+
+<!-- Tickr is a data analytics and data visualization firm that uses technologies including machine learning and AI to deploy anayltics for businesses.-->
 
 Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
 
