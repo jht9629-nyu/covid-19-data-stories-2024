@@ -60,7 +60,7 @@ Students can choose to participate as creatives, artists, javascript coders, p5j
 
 Students will participate in lectures, research, discussion groups, hands on design and build activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1 (2024-10-29)](week/01.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice.
+**[Week 1 (2024-10-29)](week/01.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for inspiration and for social justice.
 
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
@@ -69,7 +69,7 @@ Students will participate in lectures, research, discussion groups, hands on des
 <!-- Other Open Source Data Projects. -->
 
 **[Week 3 (2024-11-12)](week/03.md)** Lecture and Guest Speaker:
-Our guest lecturer will be Tim Williams from [Tickr, Inc.](ttps://www.tickr.com/) Tickr is a data analytics and data visualization firm that uses technologies including machine learning and AI to deploy anayltics for businesses.
+Our visiting artist is Ekene Ijeoma [Studio Ijeoma](https://studioijeoma.com/) Ekene Ijeoma is an artist, Assistant Professor of Media Arts and Sciences at MIT, and Director of Poetic Justice Group.
 
 Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
 
