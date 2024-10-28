@@ -1,6 +1,6 @@
 # [covid-19-data-stories-2024](https://github.com/jht9629-nyu/covid-19-data-stories-2024)
 
-# Data Storytelling for Memory Making and Social Resilience
+# Data Storytelling for Memory Making and Social Resilience: ([The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/))
 
 ## Lecture
 
