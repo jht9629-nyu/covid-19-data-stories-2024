@@ -12,7 +12,7 @@ Instructors: John Henry Thompson; Shindy Johnson
 
 ## Course Description
 
-This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on systemic inequity and injustice on a global and local scale.
+This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on systemic inequity and injustice starting with a hyper local focus
 
 In this course we will:
 
@@ -28,15 +28,17 @@ In this course we will:
 
 ● _Clarify_ pandemic stories through data disaggregation
 
+● _Explore and invent_ creative uses of data for advocacy and change.
 
+ ● _Review_ other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve.
 
-<!-- ● Explore and invent creative uses of data for advocacy and change.
+<!-- 
 
 ● Discover how data flows from public github repositories and tools needed to visualize the data.
 
 ● Examine and draw inspiration from historical and contemporary data visualizations developed by advocates for social justice and the public good. -->
 
-<!-- ● Review other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve.
+<!--
 
 ● Use data visualization as a scaffold to explore ways to support community driven mourning and memorialization after mass death events. -->
 
