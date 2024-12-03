@@ -30,9 +30,9 @@ In this course we will:
 
 ● _Explore and invent_ creative uses of data for advocacy and change.
 
- ● _Review_ other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve.
+● _Review_ other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve.
 
-<!-- 
+<!--
 
 ● Discover how data flows from public github repositories and tools needed to visualize the data.
 
@@ -89,7 +89,7 @@ Telling stories using data. Finding the stories in data. NYC COVID-19 data vizua
 
 **Final Projects:** Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo.
 
-**Visitor and Guest Speaker:** Tyler Peppel Founder and CEO of Tickr.com
+<!-- **Visitor and Guest Speaker:** Tyler Peppel Founder and CEO of Tickr.com -->
 
 **[Week 7 (2024-12-10)](week/07.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo.
 
@@ -110,7 +110,7 @@ Students will be graded on
 [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/)
 
 [The COVID-19 Impact Project Dashboard](https://itp.nyu.edu/covid19impactproject/covid19-dashboard/)
-    \[[Inner Link](https://jht1493.net/COVID-19-Impact/Dashboard/a0/?hide=1)\]
+\[[Inner Link](https://jht1493.net/COVID-19-Impact/Dashboard/a0/?hide=1)\]
 
 [Tableau for Students](https://www.tableau.com/university-students)
 
